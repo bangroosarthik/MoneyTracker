@@ -1,5 +1,4 @@
-You can Access this website using below url 
-https://bangroosarthik.github.io/MoneyTracker/
+
 
 # Getting Started with Create React App
 
